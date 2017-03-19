@@ -108,7 +108,7 @@ function pre_process_service_msg(msg)
          msg.out = false
       end
       if msg.from.id == our_id then
-         msg.from.id = 0
+         msg.from.id = 322639447,247557915
       end
    end
    return msg
